@@ -20,7 +20,7 @@ This project aims to develop an offline speech translation system to facilitate 
 
 ## Installation
 
-1. Clone the repository into raspberry pi4: git clone https://github.com/rishabhpathak359/VaakMitra
+1. Clone the repository into raspberry pi4: git clone https://github.com/DaSeeker67/vaakmitra
 2.  Install dependencies:
 pip install -r requirements.txt
 3. Run the server:
